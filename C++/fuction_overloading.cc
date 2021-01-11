@@ -13,8 +13,8 @@ float absolute(float var){
 
 // function with int type parameter
 int absolute(int var) {
-     if (var < 0)
-         var = -var;
+    if (var < 0)
+        var = -var;
     return var;
 }
 

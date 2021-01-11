@@ -4,11 +4,9 @@ using namespace std;
 
 int main(){
     int age = 10;
-    int* pAge = &age;
+    int *pAge = &age;
     double gpa = 9.3;
     double *pGpa = &gpa;
-
-
 
 
     //printing the address

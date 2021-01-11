@@ -16,6 +16,7 @@ class Player{
 
 // by default it is declare as private
 int main(){
+    // we are creating an object for the class
     Player player;
     player.Move(1, -1);
 }
