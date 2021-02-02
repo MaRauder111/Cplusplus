@@ -26,9 +26,9 @@ In C++ it uses cout and cin for input and output. cout is used to print whatever
                                        |                  |     |
                                       ___                  _____
 
-For ***cout*** it uses ***<<*** two less than sign you can easily remember this by your screen is at the left and your CPU is at the right the CPU is giving out and output.
+For ***cout*** it uses ***<<*** two less than sign you can easily remember this by your screen is at the left and your CPU is at the right the CPU is giving out an output.
 
-For ***cin*** is uses ***>>*** two greater than sign you can easliy remember this by your CPU is at the right and your Screen is at the left the CPU is getting and input.
+For ***cin*** is uses ***>>*** two greater than sign you can easliy remember this by your CPU is at the right and your Screen is at the left the CPU is getting an input.
 
 ***
 ## ***How to run a C++ program in linux command :***
