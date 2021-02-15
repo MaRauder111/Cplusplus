@@ -2,8 +2,8 @@
 
 int main(){
     int a = 10;
-    int *p;
-    p = &a;
+    int *p = &a;
+    // p = &a; //same as above
     int b = 20;
 
     std::cout << p << std::endl;
