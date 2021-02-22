@@ -1,9 +1,4 @@
-## Welcome to My C++ learninng
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Welcome to My C++ learning
 
 [Books](https://github.com/MaRauder111/Cplusplus/tree/main/Books)
 
