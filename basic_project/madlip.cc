@@ -8,7 +8,7 @@ int main(){
 	cout << "Enter your color: ";
 	getline(cin,color);
 	cout << "Enter your plural noun: ";
-	getline(cin,pluralNoun);	
+	getline(cin,pluralNoun);
 	cout << "Enter your celebrity: ";
 	getline(cin,celebrity);
 
