@@ -1,0 +1,11 @@
+*.un~
+./a.out
+a.out
+*~
+*exe
+.idea
+.vscode
+*.swp
+env
+.ipynb_checkpoints
+nbagg_uat.ipynb
